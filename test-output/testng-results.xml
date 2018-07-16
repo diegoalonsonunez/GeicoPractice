@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Geico Webapp tests" duration-ms="26448" started-at="2018-07-13T16:59:14Z" finished-at="2018-07-13T16:59:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26448" started-at="2018-07-13T16:59:14Z" finished-at="2018-07-13T16:59:40Z">
+      <class name="com.geico.stepDefinitions.Test1">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="setUpClass" is-config="true" duration-ms="2085" started-at="2018-07-13T16:59:14Z" finished-at="2018-07-13T16:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="setUp" is-config="true" duration-ms="5607" started-at="2018-07-13T16:59:16Z" finished-at="2018-07-13T16:59:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="loginTest" duration-ms="6115" started-at="2018-07-13T16:59:21Z" finished-at="2018-07-13T16:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tear_down()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="tear_down" is-config="true" duration-ms="2213" started-at="2018-07-13T16:59:27Z" finished-at="2018-07-13T16:59:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="setUp" is-config="true" duration-ms="5046" started-at="2018-07-13T16:59:30Z" finished-at="2018-07-13T16:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="quoteTest()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="quoteTest" duration-ms="4753" started-at="2018-07-13T16:59:35Z" finished-at="2018-07-13T16:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quoteTest -->
+        <test-method status="PASS" signature="tear_down()[pri:0, instance:com.geico.stepDefinitions.Test1@76a3e297]" name="tear_down" is-config="true" duration-ms="576" started-at="2018-07-13T16:59:39Z" finished-at="2018-07-13T16:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- com.geico.stepDefinitions.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Geico Webapp tests -->
+</testng-results>
